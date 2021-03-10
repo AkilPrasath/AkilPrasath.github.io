@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e2d5ca8b33886556a9c316ddbd011386",
+  "assets/AssetManifest.json": "1a09cb5527f9cb0671bb8fa6b496b4f9",
 "assets/assets/images/akil.jpg": "3a15d9716ab8f4eab97db3c00c256eaf",
+"assets/assets/images/favicon.png": "364e70ef978b1d7f4a704314f7d014ef",
 "assets/assets/images/mobile.png": "b02b8c0c5730dfd2896b1aa320defaad",
 "assets/assets/images/puzzle.png": "a57fc8a8ca0e030de8d494194e03961f",
 "assets/assets/images/website.png": "fc24cf174b5ebd1d29c745357e13573c",
@@ -19,9 +20,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "613d93da14064babed58f64d2a5a5bc0",
-"/": "613d93da14064babed58f64d2a5a5bc0",
-"main.dart.js": "e5d7e21cf90a00d3d2378ee578187f59",
+"index.html": "f03368c6e659c9e8206574e69bf2c274",
+"/": "f03368c6e659c9e8206574e69bf2c274",
+"main.dart.js": "74a7db80be3d16764fc62aafee1e0349",
 "manifest.json": "7a06224843491d669ba4f4edd0b7d7e1",
 "version.json": "bdbcb5d5f5cbff75a03044ee06ab5cb2"
 };
